@@ -1,0 +1,30 @@
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\appsettings.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\MVC Agile Process.staticwebassets.runtime.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\MVC Agile Process.exe
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\MVC Agile Process.deps.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\MVC Agile Process.runtimeconfig.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\MVC Agile Process.dll
+C:\Users\TamBhai\source\repos\MVC Agile Process\bin\Debug\net6.0\MVC Agile Process.pdb
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.AssemblyInfoInputs.cache
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.AssemblyInfo.cs
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.csproj.CoreCompileInputs.cache
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.RazorAssemblyInfo.cache
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.RazorAssemblyInfo.cs
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets\msbuild.MVC Agile Process.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC Agile Process.props
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC Agile Process.props
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC Agile Process.props
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\scopedcss\bundle\MVC Agile Process.styles.css
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\scopedcss\projectbundle\MVC Agile Process.bundle.scp.css
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.dll
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\refint\MVC Agile Process.dll
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.pdb
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\MVC Agile Process.genruntimeconfig.cache
+C:\Users\TamBhai\source\repos\MVC Agile Process\obj\Debug\net6.0\ref\MVC Agile Process.dll
